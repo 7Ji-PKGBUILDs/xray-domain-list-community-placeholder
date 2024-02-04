@@ -1,0 +1,10 @@
+pkgbase = xray-domain-list-community-placeholder
+	pkgdesc = A list of domains to be used as geosites for routing purpose in Project V, placeholder without actual data
+	pkgver = 20240131105845
+	pkgrel = 1
+	url = https://github.com/v2fly/domain-list-community
+	arch = any
+	license = MIT
+	provides = xray-domain-list-community=20240131105845
+
+pkgname = xray-domain-list-community-placeholder
