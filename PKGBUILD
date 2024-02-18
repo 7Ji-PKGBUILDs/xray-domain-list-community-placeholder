@@ -8,3 +8,5 @@ arch=('any')
 url="https://github.com/v2fly/domain-list-community"
 license=('MIT')
 provides=("xray-domain-list-community=${pkgver}")
+source=('geosite.dat')
+cksums=('SKIP')

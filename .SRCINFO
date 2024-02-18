@@ -6,5 +6,7 @@ pkgbase = xray-domain-list-community-placeholder
 	arch = any
 	license = MIT
 	provides = xray-domain-list-community=20240131105845
+	source = geosite.dat
+	cksums = SKIP
 
 pkgname = xray-domain-list-community-placeholder
